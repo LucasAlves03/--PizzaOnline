@@ -84,7 +84,7 @@ document.addEventListener('DOMContentLoaded', () => {
             id: 13,
             name: 'Coca-Cola 2L',
             price: 9.99,
-            image: 'https://gbarbosa.vtexassets.com/arquivos/ids/180734/62979e514667e7da4d656336.png?v=637897004512400000'
+            image: 'https://thepetitpizzaria.com.br/gramado/wp-content/uploads/2021/06/Pet-2-Litros-Coca-Cola-PNG.png'
           },
           {
             id: 14,
